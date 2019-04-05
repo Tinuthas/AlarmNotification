@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlarmNotification</string>
+    <string name="open_time_picker">Open Time Picker</string>
+    <string name="no_alarm_set">No Alarm set</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="alarm_set_for">Alarm set for:</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="alarm_canceled">Alarm canceled</string>
+</resources>
